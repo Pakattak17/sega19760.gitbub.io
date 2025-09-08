@@ -1,1 +1,1 @@
-# sega19760.gitbub.io
+# sega19760.github.io
